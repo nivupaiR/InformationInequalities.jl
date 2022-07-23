@@ -8,7 +8,7 @@
 
 ## Overview
 
-This package contains routines to perform Information Theoretic measures. The priliminary build up of this tool is to validate, prove and analyze Information Inequalities. This can be used both for rigorous computations and analysis of Information measures and expressions. 
+This package contains routines to perform Information Theoretic measures. The preliminary build up of this tool is to validate, prove and analyze Information Inequalities. This can be used both for rigorous computations and analysis of Information measures and expressions. 
 
 If you use this package in your work, please cite it as
 
